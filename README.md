@@ -1,1 +1,2 @@
-# Project-of-class-30
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
